@@ -1,0 +1,2 @@
+n,number_of_trees,tree_generation_time_sec,graph_construction_time_sec,distance_matrix_time_sec
+5,42,0.00016689999029040337,0.0017490999307483435,0.004205200006254017
