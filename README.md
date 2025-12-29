@@ -1,3 +1,2 @@
-# DSA
-
-Log files on DSA
+# Advanced Data Structures
+## The repository is for recording activity in the specified course
